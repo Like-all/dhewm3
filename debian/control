@@ -1,0 +1,12 @@
+Source: dhewm3
+Section: misc
+Priority: optional
+Maintainer: Azer Abdullaev (Like All) <like-all@yandex.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/dhewm/dhewm3
+
+Package: dhewm3
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: doom 3
