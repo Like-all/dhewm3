@@ -3,6 +3,6 @@
 %:
 	dh $@ 
 
-
-
-
+override_dh_clean:
+	dh_clean
+	rm -fr CMakeCache.txt CMakeFiles cmake_install.cmake config.h Makefile install_manifest.txt

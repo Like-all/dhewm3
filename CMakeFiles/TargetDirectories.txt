@@ -1,4 +1,0 @@
-/home/buckstabu/dev/packages/debian/dhewm3/dhewm3/CMakeFiles/base.dir
-/home/buckstabu/dev/packages/debian/dhewm3/dhewm3/CMakeFiles/d3xp.dir
-/home/buckstabu/dev/packages/debian/dhewm3/dhewm3/CMakeFiles/dhewm3.dir
-/home/buckstabu/dev/packages/debian/dhewm3/dhewm3/CMakeFiles/idlib.dir
