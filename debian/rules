@@ -3,6 +3,9 @@
 %:
 	dh $@ 
 
+override_dh_auto_configure:
+	cmake -DCMAKE_INSTALL_PREFIX=/usr ./neo	
+
 override_dh_clean:
 	dh_clean
 	rm -fr CMakeCache.txt CMakeFiles cmake_install.cmake config.h Makefile install_manifest.txt
