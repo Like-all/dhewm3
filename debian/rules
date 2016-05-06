@@ -4,7 +4,7 @@
 	dh $@ 
 
 override_dh_auto_configure:
-	cmake -DCMAKE_INSTALL_PREFIX=/usr ./neo	
+	cmake -DDEDICATED=ON -DCMAKE_INSTALL_PREFIX=/usr ./neo	
 
 override_dh_clean:
 	dh_clean
