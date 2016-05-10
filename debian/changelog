@@ -1,8 +1,14 @@
-dhewm3 (1.4.1-5) UNRELEASED; urgency=medium
+dhewm3 (1.4.1-6) UNRELEASED; urgency=medium
+
+  * Rebuilding stable release
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 10 May 2016 13:12:18 +0300
+
+dhewm3 (1.4.1-5) unstable; urgency=medium
 
   * Intermediate stable release
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 10 May 2016 12:32:12 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 10 May 2016 13:12:15 +0300
 
 dhewm3 (1.4.1-4) unstable; urgency=medium
 
