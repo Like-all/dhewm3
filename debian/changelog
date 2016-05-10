@@ -1,8 +1,14 @@
-dhewm3 (1.4.1-4) UNRELEASED; urgency=medium
+dhewm3 (1.4.1-5) UNRELEASED; urgency=medium
+
+  * Intermediate stable release
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 10 May 2016 12:32:12 +0300
+
+dhewm3 (1.4.1-4) unstable; urgency=medium
 
   * Separate the game, dedicated server and libs
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 10 May 2016 12:10:17 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 10 May 2016 12:32:04 +0300
 
 dhewm3 (1.4.1-3) unstable; urgency=medium
 
