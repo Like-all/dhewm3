@@ -1,10 +1,10 @@
 #!/usr/bin/make -f
 
 %:
-	dh $@ 
+	dh $@
 
 override_dh_auto_configure:
-	cmake -DDEDICATED=ON -DCMAKE_INSTALL_PREFIX=/usr ./neo	
+	cmake -DDEDICATED=ON -DCMAKE_INSTALL_PREFIX=/usr ./neo
 
 override_dh_clean:
 	dh_clean

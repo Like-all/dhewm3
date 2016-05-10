@@ -15,5 +15,15 @@ Homepage: https://github.com/dhewm/dhewm3
 
 Package: dhewm3
 Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dhewm3-libs (= ${binary:Version})
+Description: Doom 3 game engine
+
+Package: dhewm3-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dhewm3-libs (= ${binary:Version})
+Description: Doom 3 dedicated server
+
+Package: dhewm3-libs
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: doom 3
+Description: Doom 3 library files
